@@ -1,0 +1,103 @@
+Storm ABLE        is number  1 of the year 1950
+************************************************
+Month    Day   Hour    Lat.   Long.     Dir.    ----Speed-----   -----Wind------  Pressure  ------------Type-----------
+August    12   0 UTC   16.5N  54.5W    -- deg   -- mph  -- kph    40 mph  65 kph    -- mb   Tropical Storm
+August    12   6 UTC   17.1N  55.5W   300 deg   12 mph  20 kph    45 mph  75 kph    -- mb   Tropical Storm
+August    12  12 UTC   17.7N  57.0W   295 deg   17 mph  27 kph    50 mph  85 kph    -- mb   Tropical Storm
+August    12  18 UTC   18.4N  58.3W   300 deg   16 mph  25 kph    60 mph  95 kph    -- mb   Tropical Storm
+August    13   0 UTC   19.1N  59.5W   300 deg   14 mph  24 kph    60 mph  95 kph    -- mb   Tropical Storm
+August    13   6 UTC   20.1N  61.1W   305 deg   20 mph  33 kph    65 mph 100 kph    -- mb   Tropical Storm
+August    13  12 UTC   21.0N  62.5W   305 deg   17 mph  27 kph    75 mph 120 kph    -- mb   Hurricane - Category 1
+August    13  18 UTC   21.6N  63.2W   315 deg    9 mph  14 kph    80 mph 130 kph    -- mb   Hurricane - Category 1
+August    14   0 UTC   22.2N  63.7W   320 deg    8 mph  12 kph    80 mph 130 kph    -- mb   Hurricane - Category 1
+August    14   6 UTC   23.0N  64.6W   315 deg   12 mph  20 kph    80 mph 130 kph    -- mb   Hurricane - Category 1
+August    14  12 UTC   23.6N  65.3W   315 deg    9 mph  14 kph    80 mph 130 kph    -- mb   Hurricane - Category 1
+August    14  18 UTC   24.0N  65.8W   310 deg    6 mph  11 kph    85 mph 140 kph    -- mb   Hurricane - Category 1
+August    15   0 UTC   24.4N  66.2W   320 deg    5 mph   9 kph    85 mph 140 kph    -- mb   Hurricane - Category 1
+August    15   6 UTC   24.8N  66.7W   310 deg    6 mph  11 kph    85 mph 140 kph    -- mb   Hurricane - Category 1
+August    15  12 UTC   25.2N  67.2W   310 deg    6 mph  11 kph    90 mph 150 kph    -- mb   Hurricane - Category 1
+August    15  18 UTC   25.5N  67.7W   305 deg    5 mph   9 kph    90 mph 150 kph    -- mb   Hurricane - Category 1
+August    16   0 UTC   25.7N  68.3W   290 deg    5 mph   9 kph   100 mph 160 kph    -- mb   Hurricane - Category 2
+August    16   6 UTC   25.8N  68.8W   285 deg    4 mph   7 kph   105 mph 165 kph    -- mb   Hurricane - Category 2
+August    16  12 UTC   25.7N  69.2W   255 deg    3 mph   5 kph   105 mph 165 kph    -- mb   Hurricane - Category 2
+August    16  18 UTC   25.6N  69.7W   255 deg    4 mph   7 kph   110 mph 175 kph    -- mb   Hurricane - Category 2
+August    17   0 UTC   25.4N  70.4W   250 deg    6 mph  11 kph   115 mph 185 kph    -- mb   Major Hurricane - Category 3
+August    17   6 UTC   25.3N  71.4W   265 deg   10 mph  16 kph   120 mph 195 kph    -- mb   Major Hurricane - Category 3
+August    17  12 UTC   25.3N  72.4W   270 deg   10 mph  16 kph   125 mph 205 kph    -- mb   Major Hurricane - Category 3
+August    17  18 UTC   25.5N  73.2W   285 deg    8 mph  12 kph   135 mph 215 kph    -- mb   Major Hurricane - Category 4
+August    18   0 UTC   26.1N  73.8W   320 deg    9 mph  14 kph   140 mph 220 kph    -- mb   Major Hurricane - Category 4
+August    18   6 UTC   26.8N  74.4W   325 deg    9 mph  14 kph   140 mph 220 kph    -- mb   Major Hurricane - Category 4
+August    18  12 UTC   27.5N  74.9W   330 deg    9 mph  14 kph   140 mph 220 kph    -- mb   Major Hurricane - Category 4
+August    18  18 UTC   28.2N  75.4W   330 deg    9 mph  14 kph   140 mph 220 kph    -- mb   Major Hurricane - Category 4
+August    19   0 UTC   28.9N  75.8W   335 deg    8 mph  12 kph   140 mph 220 kph    -- mb   Major Hurricane - Category 4
+August    19   6 UTC   29.9N  76.1W   345 deg   11 mph  18 kph   140 mph 220 kph    -- mb   Major Hurricane - Category 4
+August    19  12 UTC   31.0N  76.2W   355 deg   12 mph  20 kph   140 mph 220 kph    -- mb   Major Hurricane - Category 4
+August    19  18 UTC   31.9N  76.0W    10 deg   10 mph  16 kph   140 mph 220 kph    -- mb   Major Hurricane - Category 4
+August    20   0 UTC   32.8N  75.7W    15 deg   10 mph  16 kph   140 mph 220 kph    -- mb   Major Hurricane - Category 4
+August    20   6 UTC   34.5N  74.8W    25 deg   20 mph  33 kph   135 mph 215 kph    -- mb   Major Hurricane - Category 4
+August    20  12 UTC   36.5N  72.9W    40 deg   28 mph  46 kph   125 mph 205 kph    -- mb   Major Hurricane - Category 3
+August    20  18 UTC   37.9N  71.4W    40 deg   20 mph  33 kph   120 mph 195 kph    -- mb   Major Hurricane - Category 3
+August    21   0 UTC   39.4N  69.5W    45 deg   24 mph  38 kph   105 mph 165 kph    -- mb   Hurricane - Category 2
+August    21   6 UTC   41.8N  67.0W    40 deg   34 mph  55 kph    75 mph 120 kph    -- mb   Hurricane - Category 1
+August    21  12 UTC   44.2N  64.3W    40 deg   35 mph  57 kph    40 mph  65 kph    -- mb   Tropical Storm
+August    21  18 UTC   46.0N  62.0W    40 deg   27 mph  44 kph    35 mph  55 kph    -- mb   Tropical Depression
+August    22   0 UTC   47.9N  59.6W    40 deg   28 mph  46 kph    35 mph  55 kph    -- mb   Tropical Depression
+August    22   6 UTC   49.8N  56.8W    45 deg   29 mph  48 kph    30 mph  45 kph    -- mb   Tropical Depression
+August    22  12 UTC   51.8N  54.0W    40 deg   29 mph  48 kph    30 mph  45 kph    -- mb   Tropical Depression
+August    22  18 UTC   53.6N  50.7W    50 deg   29 mph  48 kph    30 mph  45 kph    -- mb   Tropical Depression
+
+
+Storm BAKER       is number  2 of the year 1950
+************************************************
+Month    Day   Hour    Lat.   Long.     Dir.    ----Speed-----   -----Wind------  Pressure  ------------Type-----------
+August    20   6 UTC   16.3N  55.0W    -- deg   -- mph  -- kph    70 mph 110 kph    -- mb   Tropical Storm
+August    20  12 UTC   16.5N  56.5W   280 deg   16 mph  25 kph    70 mph 110 kph    -- mb   Tropical Storm
+August    20  18 UTC   16.5N  57.4W   270 deg    9 mph  14 kph    75 mph 120 kph    -- mb   Hurricane - Category 1
+August    21   0 UTC   16.6N  58.3W   275 deg    9 mph  14 kph    90 mph 150 kph    -- mb   Hurricane - Category 1
+August    21   6 UTC   16.6N  59.2W   270 deg    9 mph  14 kph   110 mph 175 kph    -- mb   Hurricane - Category 2
+August    21  12 UTC   16.7N  60.0W   275 deg    8 mph  12 kph   120 mph 195 kph    -- mb   Major Hurricane - Category 3
+August    21  18 UTC   16.6N  60.7W   260 deg    6 mph  11 kph   115 mph 185 kph    -- mb   Major Hurricane - Category 3
+August    22   0 UTC   16.5N  61.3W   260 deg    5 mph   9 kph   105 mph 165 kph    -- mb   Hurricane - Category 2
+August    22   6 UTC   16.6N  61.8W   280 deg    4 mph   7 kph    90 mph 150 kph    -- mb   Hurricane - Category 1
+August    22  12 UTC   16.7N  62.4W   280 deg    5 mph   9 kph    80 mph 130 kph    -- mb   Hurricane - Category 1
+August    22  18 UTC   16.8N  63.1W   280 deg    6 mph  11 kph    70 mph 110 kph    -- mb   Tropical Storm
+August    23   0 UTC   17.0N  64.0W   285 deg    9 mph  14 kph    60 mph  95 kph    -- mb   Tropical Storm
+August    23   6 UTC   17.3N  65.0W   285 deg   11 mph  18 kph    45 mph  75 kph    -- mb   Tropical Storm
+August    23  12 UTC   17.6N  66.0W   285 deg   11 mph  18 kph    40 mph  65 kph    -- mb   Tropical Storm
+August    23  18 UTC   18.0N  67.0W   295 deg   11 mph  18 kph    35 mph  55 kph    -- mb   Tropical Depression
+August    24   0 UTC   18.6N  68.3W   295 deg   14 mph  24 kph    35 mph  55 kph    -- mb   Tropical Depression
+August    24   6 UTC   19.4N  70.0W   295 deg   19 mph  31 kph    30 mph  45 kph    -- mb   Tropical Depression
+August    24  12 UTC   20.3N  71.7W   300 deg   20 mph  33 kph    30 mph  45 kph    -- mb   Tropical Depression
+August    24  18 UTC   20.9N  73.4W   290 deg   19 mph  31 kph    30 mph  45 kph    -- mb   Tropical Depression
+August    25   0 UTC   21.3N  75.1W   285 deg   18 mph  29 kph    30 mph  45 kph    -- mb   Tropical Depression
+August    25   6 UTC   21.6N  77.0W   280 deg   19 mph  31 kph    30 mph  45 kph    -- mb   Tropical Depression
+August    25  12 UTC   21.8N  78.4W   280 deg   14 mph  24 kph    35 mph  55 kph    -- mb   Tropical Depression
+August    25  18 UTC   21.8N  79.3W   270 deg    9 mph  14 kph    35 mph  55 kph    -- mb   Tropical Depression
+August    26   0 UTC   21.7N  80.1W   260 deg    8 mph  12 kph    40 mph  65 kph    -- mb   Tropical Storm
+August    26   6 UTC   21.8N  81.0W   275 deg    9 mph  14 kph    40 mph  65 kph    -- mb   Tropical Storm
+August    26  12 UTC   21.8N  81.8W   270 deg    8 mph  12 kph    45 mph  75 kph    -- mb   Tropical Storm
+August    26  18 UTC   21.9N  82.6W   280 deg    8 mph  12 kph    45 mph  75 kph    -- mb   Tropical Storm
+August    27   0 UTC   22.0N  83.3W   280 deg    6 mph  11 kph    50 mph  85 kph    -- mb   Tropical Storm
+August    27   6 UTC   22.1N  84.1W   280 deg    8 mph  12 kph    60 mph  95 kph    -- mb   Tropical Storm
+August    27  12 UTC   22.2N  84.8W   280 deg    6 mph  11 kph    60 mph  95 kph    -- mb   Tropical Storm
+August    27  18 UTC   22.3N  85.6W   280 deg    8 mph  12 kph    65 mph 100 kph    -- mb   Tropical Storm
+August    28   0 UTC   22.6N  86.4W   290 deg    8 mph  12 kph    65 mph 100 kph    -- mb   Tropical Storm
+August    28   6 UTC   22.9N  87.2W   290 deg    8 mph  12 kph    70 mph 110 kph    -- mb   Tropical Storm
+August    28  12 UTC   23.2N  87.7W   305 deg    5 mph   9 kph    75 mph 120 kph    -- mb   Hurricane - Category 1
+August    28  18 UTC   23.4N  88.0W   305 deg    3 mph   5 kph    75 mph 120 kph    -- mb   Hurricane - Category 1
+August    29   0 UTC   23.6N  88.3W   305 deg    3 mph   5 kph    80 mph 130 kph    -- mb   Hurricane - Category 1
+August    29   6 UTC   23.9N  88.6W   320 deg    4 mph   7 kph    85 mph 140 kph    -- mb   Hurricane - Category 1
+August    29  12 UTC   24.4N  88.9W   330 deg    5 mph   9 kph    90 mph 150 kph    -- mb   Hurricane - Category 1
+August    29  18 UTC   25.0N  89.1W   345 deg    6 mph  11 kph   100 mph 160 kph    -- mb   Hurricane - Category 2
+August    30   0 UTC   25.6N  89.2W   350 deg    6 mph  11 kph   105 mph 165 kph    -- mb   Hurricane - Category 2
+August    30   6 UTC   26.3N  89.3W   355 deg    8 mph  12 kph   105 mph 165 kph   979 mb   Hurricane - Category 2
+August    30  12 UTC   27.2N  89.2W     5 deg   10 mph  16 kph   110 mph 175 kph    -- mb   Hurricane - Category 2
+August    30  18 UTC   28.2N  88.7W    25 deg   11 mph  18 kph   110 mph 175 kph    -- mb   Hurricane - Category 2
+August    31   0 UTC   29.4N  88.1W    25 deg   14 mph  24 kph    85 mph 140 kph    -- mb   Hurricane - Category 1
+August    31   6 UTC   30.8N  87.8W    10 deg   16 mph  25 kph    75 mph 120 kph    -- mb   Hurricane - Category 1
+August    31  12 UTC   32.2N  87.9W   355 deg   16 mph  25 kph    60 mph  95 kph    -- mb   Tropical Storm
+August    31  18 UTC   33.2N  88.1W   350 deg   11 mph  18 kph    40 mph  65 kph    -- mb   Tropical Storm
+September  1   0 UTC   34.3N  88.5W   345 deg   12 mph  20 kph    30 mph  45 kph    -- mb   Tropical Depression
+September  1   6 UTC   35.2N  88.9W   340 deg   10 mph  16 kph    25 mph  35 kph    -- mb   Tropical Depression
+September  1  12 UTC   36.0N  89.3W   340 deg    9 mph  14 kph    15 mph  30 kph    -- mb   Tropical Depression
+September  1  18 UTC   37.0N  89.9W   335 deg   12 mph  20 kph    15 mph  30 kph    -- mb   Tropical Depression
